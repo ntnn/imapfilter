@@ -6,7 +6,8 @@ on:
     branches: {}
     tags:
       - v*
-  pull_request: {}
+  pull_request:
+    branches: {}
   workflow_dispatch: {}
 
 jobs:
